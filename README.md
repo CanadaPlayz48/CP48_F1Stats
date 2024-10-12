@@ -6,4 +6,6 @@ Welcome to my website made for my Intro to Web Communications CPRG219 class at S
 
 Contains information from the 2022 season to today
 
-Webpage still work in progress
+Has pages for each season, seperated by driver and team.
+
+Future plans include expanding website to include the Turbo-Hybrid era of 2014-2021
