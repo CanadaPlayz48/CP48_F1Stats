@@ -40,6 +40,7 @@ th {
 
 table {
     border-collapse: collapse;
+    padding: 10px 10px 10px 10px;
 }
 
 .scontainer {
@@ -50,4 +51,24 @@ table {
   max-width: 1200px;
   margin: 20px auto;
   box-shadow: 4px 4px 10px 3px rgba(0,0,0,0.4);
+}
+
+.backButton {
+  background-color: #9f0000;
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.backButton:hover {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(175, 0, 0);
 }
