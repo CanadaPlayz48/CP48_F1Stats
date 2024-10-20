@@ -78,3 +78,13 @@ table {
   padding: 10px;
   margin: auto;
 }
+
+.pageTop {
+  background-color: rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+  padding: 10px 0;
+  text-align: center;
+  max-width: 1200px;
+  margin: 20px auto;
+  box-shadow: 4px 4px 10px 3px rgba(0,0,0,0.4);
+}
