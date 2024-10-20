@@ -77,3 +77,8 @@ ul {
     border: 2px solid rgb(0, 6, 194);
 
   }
+
+  a {
+    text-decoration: none;
+    color:#ffffff;
+  }
