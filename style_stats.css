@@ -73,3 +73,8 @@ table {
   color: rgb(0, 0, 0);
   border: 2px solid rgb(175, 0, 0);
 }
+
+.leaderImage {
+  padding: 10px;
+  margin: auto;
+}
