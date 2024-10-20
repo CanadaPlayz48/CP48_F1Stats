@@ -68,10 +68,12 @@ ul {
     font-size: 16px;
     transition-duration: 0.4s;
     cursor: pointer;
+    margin: 10px;
 }
 
 .Brawn:hover {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     border: 2px solid rgb(0, 6, 194);
+
   }
